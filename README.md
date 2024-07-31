@@ -19,13 +19,13 @@ D'autres ressources pouvant être utiles pour les étudiants en classe préparat
 
 ## Illustrations
 
-![](https://github.com/ValentinRonsseray/physiquechimie_anki/blob/main/images/diffmarche_masque.jpg?raw=true)
-![](https://github.com/ValentinRonsseray/physiquechimie_anki/blob/main/images/diffmarche.jpg?raw=true)
+![](https://github.com/ValentinRonsseray/physiquechimie_anki_mp/blob/main/images/grad_masque.jpg?raw=true)
+![](https://github.com/ValentinRonsseray/physiquechimie_anki_mp/blob/main/images/grad.jpg?raw=true)
 
 ---
-![](https://github.com/ValentinRonsseray/physiquechimie_anki/blob/main/images/ampholyte_masque.jpg?raw=true)
-![](https://github.com/ValentinRonsseray/physiquechimie_anki/blob/main/images/ampholyte.jpg?raw=true)
+![](https://github.com/ValentinRonsseray/physiquechimie_anki_mp/blob/main/images/potentiel_cache.jpg?raw=true)
+![](https://github.com/ValentinRonsseray/physiquechimie_anki_mp/blob/main/images/potentiel.jpg?raw=true)
 
 ---
-![](https://github.com/ValentinRonsseray/physiquechimie_anki/blob/main/images/analogies_masque.jpg?raw=true)
-![](https://github.com/ValentinRonsseray/physiquechimie_anki/blob/main/images/analogies.jpg?raw=true)
+![](https://github.com/ValentinRonsseray/physiquechimie_anki_mp/blob/main/images/gauss_masque.jpg?raw=true)
+![](https://github.com/ValentinRonsseray/physiquechimie_anki_mp/blob/main/images/gauss.jpg?raw=true)
